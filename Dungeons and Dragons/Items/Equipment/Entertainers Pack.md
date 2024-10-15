@@ -1,0 +1,1 @@
+backpack, bedroll, costume (2),candle (5),rations (5), waterskin, disguise kit
