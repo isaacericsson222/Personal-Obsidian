@@ -1,17 +1,19 @@
+#character
+
 race: human 4
 class: bard
 size: medium
 alignment: chaotic-neutral
 ac: 14
-hp: 23 
+hp: 27
 current hp: 14
 hit dice: 4d8
 speed: 30
 stats:
  - STR -  8 (-1)
  - DEX - 14 (+2)
- - CON - 10 (+0)
- - INT - 12 (+1)
+ - CON - 12 (+1)
+ - INT - 11 (+1)
  - WIS - 14 (+2)
  - CHA - 16 (+3)
 saves:
@@ -53,8 +55,15 @@ other proficiencies and languages
  [[Spellcasting]]
  - Cantrips
 	  - Toll the Dead
+	  - Vicious Mockery
  - 1st Level
+	 - Command
+	 - Dissonant Whispers
+	 - Silvery Barbs
+	 - Tasha's Hideous Laughter
  - 2nd Level
+	 - Crown of Madness
+	 - Suggestion
  - 3rd Level
  - 4th Level
  - 5th Level
@@ -63,6 +72,8 @@ other proficiencies and languages
  - 8th Level
  - 9th Level
  - 10th Level
+
+![[Pasted image 20241015102402.png]]
  
  
  

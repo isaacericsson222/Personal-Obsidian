@@ -1,3 +1,5 @@
+#equipment
+
 [[Deck of Cards]]
 [[Entertainers Pack]]
 [[Jester's Outfit]]
