@@ -28,20 +28,20 @@ saves:
 passive perception: 12
 languages: common
 initiative: +3
-[[Features]]
+[[Me/Dungeons and Dragons/Sarmenti/Features/Features]]
  - By Popular Demand
  - Bardic Inspiration (utility)
  - Song of Rest (healing)
  - Jack of All Trades (utility)
  - Rising Tempo (utility)
  - Finale (attack)
-[[Equipment]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Equipment]]
  - Deck of Cards
  - Lute
  - Violin
  - Jester's Outfit
  - Red Oval
-[[Weapons]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Weapons/Weapons]]
  - Sickle and Dagger
  - Obsidian Rapier
 other proficiencies and languages
@@ -52,7 +52,7 @@ other proficiencies and languages
  spell save DC: $8 + 2 + 2 = 12$
  spell attack mod: $2 + 2 = 4$
  focus: instrument
- [[Spellcasting]]
+ [[Me/Dungeons and Dragons/Sarmenti/Spellcasting/Spellcasting]]
  - Cantrips
 	  - Toll the Dead
 	  - Vicious Mockery
@@ -73,7 +73,7 @@ other proficiencies and languages
  - 9th Level
  - 10th Level
 
-![[Pasted image 20241015102402.png]]
+![[Me/Dungeons and Dragons/Sarmenti/Images/Pasted image 20241015102402.png]]
  
  
  

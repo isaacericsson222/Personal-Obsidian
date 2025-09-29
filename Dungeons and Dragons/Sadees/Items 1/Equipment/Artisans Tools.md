@@ -1,0 +1,1 @@
+papers and pen and ink, the expensive sort used for official documents. Official guilds seals
