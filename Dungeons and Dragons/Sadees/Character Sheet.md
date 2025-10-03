@@ -7,14 +7,14 @@ alignment: chaotic-good
 ec: 13
 ac: 10
 hp: 8
-current hp: 2
+current hp: 8
 hit dice: 1d8
 speed: 30
 stats:
  - STR -  7 (-2)
  - DEX - 17(+3)
  - CON - 11 (+0)
- - INT - 17 (+4)
+ - INT - 17 (+3)
  - WIS -  11(+0)
  - CHA -  12(+1)
 saves:
