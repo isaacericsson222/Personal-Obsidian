@@ -1,13 +1,13 @@
 #character
-xp: 299/300
-race: human 1
+xp: 499/900
+race: human 2
 class: rogue
 size: medium
 alignment: chaotic-good
 ec: 13
 ac: 10
 hp: 8
-current hp: 8
+current hp: 16
 hit dice: 1d8
 speed: 30
 stats:

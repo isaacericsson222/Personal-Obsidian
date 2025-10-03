@@ -4,3 +4,4 @@
 [[Skill Expert (Feat)]]
 [[Sneak Attack]]
 [[Thieve's Can't]]
+[[Cunning Action]]
