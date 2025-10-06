@@ -2,21 +2,40 @@
 xp: 499/900
 race: human 2
 class: rogue
-size: medium
-alignment: chaotic-good
-ec: 13
-ac: 10
-hp: 8
-current hp: 16
-hit dice: 1d8
+alignment: chaotic-neutral
 speed: 30
-stats:
- - STR -  7 (-2)
- - DEX - 17(+3)
- - CON - 11 (+0)
- - INT - 17 (+3)
- - WIS -  11(+0)
- - CHA -  12(+1)
+
+
+| max hp | cur | hit dice |
+| ------ | --- | -------- |
+| 16     | 16  | 2d8      |
+
+| ac  | ec  |
+| --- | --- |
+| 13  | 10  |
+
+| stats | score | mod |
+| ----- | ----- | --- |
+| STR   | 7     | -2  |
+| DEX   | 17    | +3  |
+| CON   | 11    | +0  |
+| INT   | 17    | +3  |
+| WIS   | 11    | +0  |
+| CHA   | 12    | +1  |
+
+| saves          |     |
+| -------------- | --- |
+| DEX            | +5  |
+| INT            | +5  |
+| slight of hand | +5  |
+| investigation  | +5  |
+| perception     | +4  |
+| insight        | +4  |
+| history        | +5  |
+| persuasion     | +5  |
+| deception      | +   |
+
+
 saves:
  - DEX (+5)
  - INT (+5)
@@ -59,7 +78,8 @@ other proficiencies and languages
  - 9th Level
  - 10th Level
 
-[[Hunters Journal]]
+size: medium
+
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
 

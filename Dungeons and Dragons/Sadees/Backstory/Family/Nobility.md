@@ -1,0 +1,1 @@
+I am proud to be of the 1st Eschelon, or at least had been of. House Renoux holds the reputation of great influence in trade and commerce in Auvrenne.
