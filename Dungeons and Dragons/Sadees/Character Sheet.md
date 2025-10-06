@@ -4,7 +4,7 @@ race: human 2
 class: rogue
 alignment: chaotic-neutral
 speed: 30
-
+initiative: + 3
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
@@ -23,26 +23,20 @@ speed: 30
 | WIS   | 11    | +0  |
 | CHA   | 12    | +1  |
 
-| saves          |     |
-| -------------- | --- |
-| DEX            | +5  |
-| INT            | +5  |
-| slight of hand | +5  |
-| investigation  | +5  |
-| perception     | +4  |
-| insight        | +4  |
-| history        | +5  |
-| persuasion     | +5  |
-| deception      | +   |
+| saves          | prof bonus (+2) |
+| -------------- | --------------- |
+| DEX            | +5              |
+| INT            | +5              |
+| slight of hand | +5              |
+| investigation  | +5              |
+| perception     | +4              |
+| insight        | +4              |
+| history        | +5              |
+| persuasion     | +5              |
+| deception      | +3              |
+| intimidation   | +3              |
 
-
-saves:
- - DEX (+5)
- - INT (+5)
-skillsaves: slight of hand, investigation, perception(Expertise), insight(Expert), history, persuasion(Expertise), deception, intimidation
-passive perception: 10
 languages: common, elvish
-initiative: +3
 [[Me/Dungeons and Dragons/Sadees/Features 1/Features|Features]]
  - Feat Skill Expert
   - Expertise
