@@ -23,18 +23,18 @@ initiative: + 3
 | WIS   | 10    | +0  |
 | CHA   | 10    | +0  |
 
-| saves          | prof bonus (+2) |
-| -------------- | --------------- |
-| DEX            | +5              |
-| INT            | +5              |
-| slight of hand | +5              |
-| investigation  | +5              |
-| perception     | +4              |
-| insight        | +4              |
-| history        | +5              |
-| persuasion     | +5              |
-| deception      | +3              |
-| intimidation   | +3              |
+| saves              | prof bonus (+2) |
+| ------------------ | --------------- |
+| DEX                | +5              |
+| INT                | +5              |
+| slight of hand     | +5              |
+| investigation(exp) | +7              |
+| perception(exp)    | +4              |
+| insight(exp)       | +4              |
+| history            | +5              |
+| persuasion         | +2              |
+| deception          | +2              |
+| intimidation       | +2              |
 
 languages: common, elvish
 [[Me/Dungeons and Dragons/Sadees/Features 1/Features|Features]]
