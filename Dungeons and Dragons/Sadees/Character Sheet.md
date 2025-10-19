@@ -42,6 +42,8 @@ languages: common, elvish
   - Expertise
   - Sneak Attack
   - Thieve's Can't
+  - Cunning Action
+  - Verdant Regrowth
 [[Me/Dungeons and Dragons/Sadees/Items 1/Equipment/Equipment|Equipment]]
 - explorers pack
 - thieves tool
