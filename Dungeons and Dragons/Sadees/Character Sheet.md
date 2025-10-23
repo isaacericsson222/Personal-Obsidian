@@ -5,14 +5,20 @@ class: rogue
 alignment: chaotic-neutral
 speed: 30
 initiative: + 3
+inspiration: 1
+gold: 51
+passive wisdom: 12
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
 | 16     | 16  | 2d8      |
 
-| ac  | ec  |
-| --- | --- |
-| 13  | 10  |
+
+Studded leather + buckler
+
+| ac  |
+| --- |
+| 17  |
 
 | stats | score | mod |
 | ----- | ----- | --- |
@@ -52,7 +58,7 @@ languages: common, elvish
 - travelers clothes
 [[Me/Dungeons and Dragons/Sadees/Items 1/Weapons/Weapons|Weapons]]
  - rapier
- - shortbow + 20 arrows
+ - short bow + 20 arrows
  - daggers (2)
 other proficiencies and languages
  - light armor
