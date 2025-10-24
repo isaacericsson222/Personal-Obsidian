@@ -1,0 +1,5 @@
+#weapons
+
+[[Dagger]]
+[[Rapier]]
+[[Shortbow]]

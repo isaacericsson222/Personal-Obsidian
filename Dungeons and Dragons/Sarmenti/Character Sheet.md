@@ -41,8 +41,11 @@ initiative: +3
  - Violin
  - Jester's Outfit
  - Red Oval
+<<<<<<< HEAD
  - Red Rose
  - Tambourine
+=======
+>>>>>>> origin/main
 [[Me/Dungeons and Dragons/Sarmenti/Items/Weapons/Weapons]]
  - Sickle and Dagger
  - Obsidian Rapier
@@ -54,6 +57,7 @@ other proficiencies and languages
  spell save DC: $8 + 2 + 2 = 12$
  spell attack mod: $2 + 2 = 4$
  focus: instrument
+<<<<<<< HEAD
  characteristics
   - Personality Trait
 	  - I love a good insult, even one directed at me.
@@ -64,6 +68,9 @@ other proficiencies and languages
   - Flaws
 	  - I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.
  [[Spellcasting]]
+=======
+ [[Me/Dungeons and Dragons/Sarmenti/Spellcasting/Spellcasting]]
+>>>>>>> origin/main
  - Cantrips
 	  - Toll the Dead
 	  - Vicious Mockery
@@ -86,7 +93,7 @@ other proficiencies and languages
  - 9th Level
  - 10th Level
 
-![[Pasted image 20241015102402.png]]
+![[Me/Dungeons and Dragons/Sarmenti/Images/Pasted image 20241015102402.png]]
  
  
  

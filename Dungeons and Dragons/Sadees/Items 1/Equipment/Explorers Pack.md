@@ -1,0 +1,8 @@
+- a [backpack](https://roll20.net/compendium/dnd5e/Items:backpack?expansion=34047#content)
+- a [bedroll](https://roll20.net/compendium/dnd5e/Items:bedroll?expansion=34047#content)
+- a [mess kit](https://roll20.net/compendium/dnd5e/Items:mess%20kit?expansion=34047#content)
+- a [tinderbox](https://roll20.net/compendium/dnd5e/Items:tinderbox?expansion=34047#content)
+- 10 [torches](https://roll20.net/compendium/dnd5e/Items:torch?expansion=34047#content)
+- 10 days of [rations](https://roll20.net/compendium/dnd5e/Items:rations?expansion=34047#content)
+- a [waterskin](https://roll20.net/compendium/dnd5e/Items:waterskin?expansion=34047#content)
+- 50 feet of [hempen rope](https://roll20.net/compendium/dnd5e/Items:hempen%20rope?expansion=34047#content)

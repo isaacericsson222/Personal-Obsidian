@@ -1,10 +1,12 @@
 #equipment
 
-[[Deck of Cards]]
-[[Entertainers Pack]]
-[[Jester's Outfit]]
-[[Lute]]
-[[Red Oval]]
-[[Violin]]
-[[Red Rose]]
+
 [[Tambourine]]
+=======
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Deck of Cards]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Entertainers Pack]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Jester's Outfit]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Lute]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Red Oval]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Violin]]
+>>>>>>> origin/main
