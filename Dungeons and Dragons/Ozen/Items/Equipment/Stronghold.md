@@ -1,0 +1,1 @@
+A mechanical armor set made up of thousands of interlocking pins. Can shift around on the users body at will and grants a permanent 18 armor class.

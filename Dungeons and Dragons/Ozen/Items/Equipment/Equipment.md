@@ -1,0 +1,6 @@
+[[Desecrate]]
+[[Fine Clothes]]
+[[Game Set (Cards)]]
+[[Scroll of Pedigree]]
+[[Signet Ring]]
+[[Stronghold]]

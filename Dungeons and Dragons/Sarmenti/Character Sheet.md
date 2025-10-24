@@ -28,34 +28,46 @@ saves:
 passive perception: 12
 languages: common
 initiative: +3
-[[Features]]
+[[Me/Dungeons and Dragons/Sarmenti/Features/Features]]
  - By Popular Demand
  - Bardic Inspiration (utility)
  - Song of Rest (healing)
  - Jack of All Trades (utility)
  - Rising Tempo (utility)
  - Finale (attack)
-[[Equipment]]
+[[Me/Dungeons and Dragons/Sarmenti/Items/Equipment/Equipment]]
  - Deck of Cards
  - Lute
  - Violin
  - Jester's Outfit
  - Red Oval
-[[Weapons]]
+ - Red Rose
+ - Tambourine
+[[Me/Dungeons and Dragons/Sarmenti/Items/Weapons/Weapons]]
  - Sickle and Dagger
  - Obsidian Rapier
 other proficiencies and languages
  - light armor
  - simple weapons, hand crossbows, longswords, rapiers, shortswords
- - lute, piano, violin
+ - lute, piano, violin. tambourine
  spellcasting
  spell save DC: $8 + 2 + 2 = 12$
  spell attack mod: $2 + 2 = 4$
  focus: instrument
+ characteristics
+  - Personality Trait
+	  - I love a good insult, even one directed at me.
+  - Ideal
+	  - **Creativity**: The world is in need of new ideas and bold action. (Chaotic)
+  - Bonds
+	  - I would do anything for the other members of my old troupe.
+  - Flaws
+	  - I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.
  [[Spellcasting]]
  - Cantrips
 	  - Toll the Dead
 	  - Vicious Mockery
+	  - Prestidigitation
  - 1st Level
 	 - Command
 	 - Dissonant Whispers
@@ -64,6 +76,7 @@ other proficiencies and languages
  - 2nd Level
 	 - Crown of Madness
 	 - Suggestion
+	 - Spray of Cards
  - 3rd Level
  - 4th Level
  - 5th Level

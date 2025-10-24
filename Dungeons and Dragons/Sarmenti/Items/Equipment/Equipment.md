@@ -6,3 +6,5 @@
 [[Lute]]
 [[Red Oval]]
 [[Violin]]
+[[Red Rose]]
+[[Tambourine]]
