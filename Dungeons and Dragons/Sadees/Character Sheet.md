@@ -6,12 +6,12 @@ alignment: chaotic-neutral
 speed: 30
 initiative: + 3
 inspiration: 1
-gold: 61
+gold: 62
 passive wisdom: 14
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
-| 16     | 24  | 3d8      |
+| 21     | 21  | 3d8      |
 
 
 Studded leather + buckler
