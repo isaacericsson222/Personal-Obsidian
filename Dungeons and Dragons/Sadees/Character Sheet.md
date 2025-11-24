@@ -1,5 +1,5 @@
 #character
-xp: 499/900
+xp: 899/900
 race: human 2
 class: rogue
 alignment: chaotic-neutral
@@ -7,11 +7,11 @@ speed: 30
 initiative: + 3
 inspiration: 1
 gold: 51
-passive wisdom: 12
+passive wisdom: 14
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
-| 16     | 16  | 2d8      |
+| 16     | 14  | 2d8      |
 
 
 Studded leather + buckler
