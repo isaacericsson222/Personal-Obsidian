@@ -85,3 +85,6 @@ size: medium
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
 
+Arcanite 
+
+Arcanite History, Art of Alloying, Application of Arcanite, books for school, Codex of Honor
