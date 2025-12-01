@@ -1,13 +1,15 @@
 #character
-xp: 1350/2700
+xp: 2050/2700
 race: human 3
 class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
 initiative: + 3
-inspiration: 1
-gold: 62
+inspiration: 0
+gold: 79
 passive wisdom: 14
+
+Vulnerable to fire
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
@@ -88,3 +90,10 @@ size: medium
 Arcanite 
 
 Arcanite History, Art of Alloying, Application of Arcanite, books for school, Codex of Honor
+
+Horse
+Bramblemain - 50mpd standard/goes through firpine thicket
+Embercoat - 60mpd immune to wet
+Miremare - 45mpd hooves don't sink in mud 
+Hearthhoof - 35mpd warrior horse no spook, big/strong
+Stormsteed - 70mpd fastest very rare, points out wind
