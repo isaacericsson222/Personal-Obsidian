@@ -1,19 +1,19 @@
 #character
-xp: 2050/2700
+xp: 2250/2700
 race: human 3
 class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
 initiative: + 3
 inspiration: 0
-gold: 79
+gold: 88
 passive wisdom: 14
 
-Vulnerable to fire
+Vulnerable to fire (KNOWN!)
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
-| 21     | 21  | 3d8      |
+| 21     | 10  | 3d8      |
 
 
 Studded leather + buckler
@@ -97,3 +97,6 @@ Embercoat - 60mpd immune to wet
 Miremare - 45mpd hooves don't sink in mud 
 Hearthhoof - 35mpd warrior horse no spook, big/strong
 Stormsteed - 70mpd fastest very rare, points out wind
+
+Stilldream
+
