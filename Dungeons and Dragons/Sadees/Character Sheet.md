@@ -99,5 +99,3 @@ Hearthhoof - 35mpd warrior horse no spook, big/strong
 Stormsteed - 70mpd fastest very rare, points out wind
 
 Stilldream
-
-Dream warden Rapier + 1 - Radiant damage + resistant to necrotic when equipped
