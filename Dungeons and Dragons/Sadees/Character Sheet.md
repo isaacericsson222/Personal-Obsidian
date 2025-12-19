@@ -1,5 +1,5 @@
 #character
-xp: 2250/2700
+xp: 2550/2700
 race: human 3
 class: inquisitive rogue
 alignment: chaotic-neutral
@@ -12,9 +12,9 @@ passive wisdom: 14
 Vulnerable to fire 
 Resistance to necrotic
 
-| max hp | cur | hit dice |
-| ------ | --- | -------- |
-| 21     | 10  | 3d8      |
+| max hp | cur | hit dice | cur hit dice |
+| ------ | --- | -------- | ------------ |
+| 21     | 21  | 3d8      | 0            |
 
 
 Studded leather + buckler
