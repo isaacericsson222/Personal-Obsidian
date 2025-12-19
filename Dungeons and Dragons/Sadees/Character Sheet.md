@@ -9,7 +9,8 @@ inspiration: 0
 gold: 88
 passive wisdom: 14
 
-Vulnerable to fire (KNOWN!)
+Vulnerable to fire 
+Resistance to necrotic
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
@@ -98,4 +99,4 @@ Miremare - 45mpd hooves don't sink in mud
 Hearthhoof - 35mpd warrior horse no spook, big/strong
 Stormsteed - 70mpd fastest very rare, points out wind
 
-Stilldream
+Stilldream, general of the dreamers (100 winged thingy), 4 armed guys are typhons

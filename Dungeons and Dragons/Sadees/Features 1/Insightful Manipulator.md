@@ -1,10 +1,6 @@
 Starting at 3rd level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 
-- Intelligence score
-
-- Wisdom score
-
-- Charisma score
+- Any stat (if seen in action)
 
 - Class levels (if any)
 

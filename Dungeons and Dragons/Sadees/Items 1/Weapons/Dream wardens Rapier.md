@@ -8,6 +8,7 @@ A _Dream Warden Rapier_ has one rune on its blade for each master it has served 
 - Plus 1
 - Resistance to Necrotic
 - Radiant Damage
+
 **Sentience.** A _moonblade_ is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and darkvision out to a range of 120 feet.
 
 The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder's hand when it wants to communicate something it has sensed. It can communicate more explicitly, through visions or dreams, when the wielder is either in a trance or asleep.
