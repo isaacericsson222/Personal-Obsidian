@@ -1,32 +1,33 @@
 #character
-xp: 2550/2700
-race: human 3
+xp: 3150/2700
+race: human 4
 class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
-initiative: + 3
+initiative: + 4
 inspiration: 0
 gold: 88
 passive wisdom: 14
 
 Vulnerable to fire 
 Resistance to necrotic
+-1 arrow
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 21     | 21  | 3d8      | 0            |
+| 27     | 27  | 4d8      | 0            |
 
 
 Studded leather + buckler
 
 | ac  |
 | --- |
-| 17  |
+| 18  |
 
 | stats | score | mod |
 | ----- | ----- | --- |
 | STR   | 7     | -2  |
-| DEX   | 17    | +3  |
+| DEX   | 18    | +4  |
 | CON   | 8     | -1  |
 | INT   | 16    | +3  |
 | WIS   | 10    | +0  |
@@ -34,9 +35,9 @@ Studded leather + buckler
 
 | saves              | prof bonus (+2) |
 | ------------------ | --------------- |
-| DEX                | +5              |
+| DEX                | +6              |
 | INT                | +5              |
-| slight of hand     | +5              |
+| slight of hand     | +6              |
 | investigation(exp) | +7              |
 | perception(exp)    | +4              |
 | insight(exp)       | +4              |
