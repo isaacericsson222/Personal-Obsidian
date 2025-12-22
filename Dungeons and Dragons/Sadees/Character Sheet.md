@@ -11,7 +11,7 @@ passive wisdom: 14
 
 Vulnerable to fire 
 Resistance to necrotic
--1 arrow
+-3 arrow
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
