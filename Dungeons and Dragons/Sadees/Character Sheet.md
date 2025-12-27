@@ -1,5 +1,5 @@
 #character
-xp: 3150/2700
+xp: 4750/6,500
 race: human 4
 class: inquisitive rogue
 alignment: chaotic-neutral
@@ -11,7 +11,7 @@ passive wisdom: 14
 
 Vulnerable to fire 
 Resistance to necrotic
--3 arrow
+-6 arrow 5 Worgs left
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
