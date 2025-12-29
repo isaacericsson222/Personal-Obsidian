@@ -1,6 +1,6 @@
 #character
-xp: 4750/6,500
-race: human 4
+xp: 7150/14,000
+race: human 5
 class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
@@ -11,11 +11,11 @@ passive wisdom: 14
 
 Vulnerable to fire 
 Resistance to necrotic
--8 arrow left Silas at 8 Kat worse
+-8 arrow left Silas at 8 Kat worse got a geode and bag of holding
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 27     | 27  | 4d8      | 0            |
+| 31     | 31  | 5d8      | 0            |
 
 
 Studded leather + buckler
@@ -33,18 +33,18 @@ Studded leather + buckler
 | WIS   | 10    | +0  |
 | CHA   | 10    | +0  |
 
-| saves              | prof bonus (+2) |
+| saves              | prof bonus (+3) |
 | ------------------ | --------------- |
-| DEX                | +6              |
-| INT                | +5              |
-| slight of hand     | +6              |
-| investigation(exp) | +7              |
-| perception(exp)    | +4              |
-| insight(exp)       | +4              |
-| history            | +5              |
-| persuasion         | +2              |
-| deception          | +2              |
-| intimidation       | +2              |
+| DEX                | +7              |
+| INT                | +6              |
+| slight of hand     | +7              |
+| investigation(exp) | +9              |
+| perception(exp)    | +6              |
+| insight(exp)       | +6              |
+| history            | +6              |
+| persuasion         | +3              |
+| deception          | +3              |
+| intimidation       | +3              |
 
 languages: common, elvish
 [[Me/Dungeons and Dragons/Sadees/Features 1/Features|Features]]
@@ -54,16 +54,19 @@ languages: common, elvish
   - Thieve's Can't
   - Cunning Action
   - Verdant Regrowth
+  - Piercer
+  - Uncanny Dodge
 [[Me/Dungeons and Dragons/Sadees/Items 1/Equipment/Equipment|Equipment]]
 - explorers pack
 - thieves tool
 - artisans tools
 - a letter of introduction
 - travelers clothes
+- Bag of Holding
+- Strange Geode
 [[Me/Dungeons and Dragons/Sadees/Items 1/Weapons/Weapons|Weapons]]
- - rapier
- - short bow + 20 arrows
- - daggers (2)
+ - Dream Wardens Rapier
+ - long bow + 10 arrows
 other proficiencies and languages
  - light armor
  - simple weapons, hand crossbows, longswords, rapiers, shortswords
