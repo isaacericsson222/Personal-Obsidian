@@ -11,7 +11,7 @@ passive wisdom: 14
 
 Vulnerable to fire 
 Resistance to necrotic
--6 arrow 5 Worgs left
+-8 arrow left Silas at 8 Kat worse
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
