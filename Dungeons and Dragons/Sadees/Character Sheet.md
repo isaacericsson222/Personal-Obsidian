@@ -15,7 +15,7 @@ Resistance to necrotic
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 31     | 31  | 5d8      | 0            |
+| 21     | 31  | 5d8      | 0            |
 
 
 Studded leather + buckler
@@ -103,4 +103,4 @@ Miremare - 45mpd hooves don't sink in mud
 Hearthhoof - 35mpd warrior horse no spook, big/strong
 Stormsteed - 70mpd fastest very rare, points out wind
 
-Stilldream, general of the dreamers (100 winged thingy), 4 armed guys are typhons
+Stilldream, general of the dreamers (100 winged thingy), 4 armed guys are typhons, Ashazi (Tarkus guys are sand fey) (Oak is dryad?? maybe) 
