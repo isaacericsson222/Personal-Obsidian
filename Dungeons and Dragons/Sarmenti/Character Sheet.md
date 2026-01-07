@@ -67,7 +67,7 @@ other proficiencies and languages
 	  - I would do anything for the other members of my old troupe.
   - Flaws
 	  - I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.
- [[Spellcasting]]
+ [[Me/Dungeons and Dragons/Sarmenti/Spellcasting/Spellcasting]]
 =======
  [[Me/Dungeons and Dragons/Sarmenti/Spellcasting/Spellcasting]]
 >>>>>>> origin/main
