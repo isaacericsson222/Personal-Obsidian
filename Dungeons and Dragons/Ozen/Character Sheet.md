@@ -1,4 +1,4 @@
-51#character
+#character
 
 race: human 4
 class: artificer

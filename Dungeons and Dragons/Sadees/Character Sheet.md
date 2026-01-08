@@ -1,45 +1,50 @@
 #character
-xp: 899/900
-race: human 2
-class: rogue
+
+xp: 7150/14,000
+race: human 5
+class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
-initiative: + 3
+initiative: + 4
 inspiration: 0
-gold: 67
-passive wisdom: 12
+gold: 88
+passive perception: 14
 
-| max hp | cur | hit dice |
-| ------ | --- | -------- |
-| 16     | 16  | 2d8      |
+Vulnerable to fire 
+Resistance to necrotic
+-8 arrow left Silas at 8 Kat worse got a geode and bag of holding
+
+| max hp | cur | hit dice | cur hit dice |
+| ------ | --- | -------- | ------------ |
+| 23     | 31  | 5d8      | 0            |
 
 Studded leather  15 + buckler 2
 
 | ac  |
 | --- |
-| 17  |
+| 18  |
 
 | stats | score | mod |
 | ----- | ----- | --- |
 | STR   | 7     | -2  |
-| DEX   | 17    | +3  |
+| DEX   | 18    | +4  |
 | CON   | 8     | -1  |
 | INT   | 16    | +3  |
 | WIS   | 10    | +0  |
 | CHA   | 10    | +0  |
 
-| saves              | prof bonus (+2) |
+| saves              | prof bonus (+3) |
 | ------------------ | --------------- |
-| DEX                | +5              |
-| INT                | +5              |
-| slight of hand     | +5              |
-| investigation(exp) | +7              |
-| perception(exp)    | +4              |
-| insight(exp)       | +4              |
-| history            | +5              |
-| persuasion         | +2              |
-| deception          | +2              |
-| intimidation       | +2              |
+| DEX                | +7              |
+| INT                | +6              |
+| slight of hand     | +7              |
+| investigation(exp) | +9              |
+| perception(exp)    | +6              |
+| insight(exp)       | +6              |
+| history            | +6              |
+| persuasion         | +3              |
+| deception          | +3              |
+| intimidation       | +3              |
 
 languages: common, elvish
 [[Me/Dungeons and Dragons/Sadees/Features 1/Features|Features]]
@@ -49,16 +54,19 @@ languages: common, elvish
   - Thieves' Can't
   - Cunning Action
   - Verdant Regrowth
+  - Piercer
+  - Uncanny Dodge
 [[Me/Dungeons and Dragons/Sadees/Items 1/Equipment/Equipment|Equipment]]
 - explorers pack
 - thieves tool
 - artisans tools
 - a letter of introduction
 - travelers clothes
+- Bag of Holding
+- Strange Geode
 [[Me/Dungeons and Dragons/Sadees/Items 1/Weapons/Weapons|Weapons]]
- - rapier
- - short bow + 20 arrows
- - daggers (2)
+ - Dream Wardens Rapier
+ - long bow + 10 arrows
 other proficiencies and languages
  - light armor
  - simple weapons, hand crossbows, longswords, rapiers, shortswords
@@ -84,3 +92,29 @@ size: medium
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
 
+Arcanite 
+
+Arcanite History, Art of Alloying, Application of Arcanite, books for school, Codex of Honor
+
+Horse
+Bramblemain - 50mpd standard/goes through firpine thicket
+Embercoat - 60mpd immune to wet
+Miremare - 45mpd hooves don't sink in mud 
+Hearthhoof - 35mpd warrior horse no spook, big/strong
+Stormsteed - 70mpd fastest very rare, points out wind
+
+Stilldream, general of the dreamers (100 winged thingy), 4 armed guys are typhons, Ashazi (Tarkus guys are sand fey) (Oak is dryad?? maybe), Kaitan (demon chained the dragon)
+
+Bag of Holding
+
+
+Tablet - 1
+Winged Sentry leading army to Ilsebeast Sinod to conquor stillbane (date 1300 pre pw)
+
+(second depiction) - Plantera bulb on left, swarm of moving plants on the right running to Typhon base of cliff they are standing on is the Aorta river.
+
+Tablet - 2
+Winged Sentry failed, breached gate but no coordinates, we won and rallied behind the stillbane and ended Typhon Plague. We failed to destroy the Winged Sentry, with the stillbane, the heart of Ellowhyne, we sealed him in the tomb of Zyphera (the continent?)
+
+Tablet - 3
+Only thing any mortal is vulnerable to is time, let the Millenia wear away the Winged Sentries power, then once and for all, the Stillbane can banish Typhus(typo?) from Inarian(our planet)
