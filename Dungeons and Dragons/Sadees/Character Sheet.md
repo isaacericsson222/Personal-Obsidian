@@ -1,4 +1,5 @@
 #character
+
 xp: 7150/14,000
 race: human 5
 class: inquisitive rogue
@@ -17,8 +18,7 @@ Resistance to necrotic
 | ------ | --- | -------- | ------------ |
 | 23     | 31  | 5d8      | 0            |
 
-
-Studded leather + buckler
+Studded leather  15 + buckler 2
 
 | ac  |
 | --- |
@@ -51,7 +51,7 @@ languages: common, elvish
  - Feat Skill Expert
   - Expertise
   - Sneak Attack
-  - Thieve's Can't
+  - Thieves' Can't
   - Cunning Action
   - Verdant Regrowth
   - Piercer
