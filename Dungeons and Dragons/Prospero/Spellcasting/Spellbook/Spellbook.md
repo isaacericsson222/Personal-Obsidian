@@ -28,13 +28,13 @@ every long rest (and always prepared)
 | Identify          | 1     | Divination(ritual) | Maybe?   | none                                         |
 | Misty Step        | 2     | Conjuration        | Always   | none                                         |
 | Wither and Bloom  | 2     | Necromancy         | Yes      | necrotic                                     |
-| Silence           | 2     | Illusion(ritual)   | Yes      | none                                         |
+| Silence           | 2     | Illusion(ritual)   | No       | none                                         |
 | Cloud of Daggers  | 2     | Conjuration        | Yes      | slashing                                     |
 | Dragons Breath    | 2     | Transmutation      | No       | acid, cold, fire, lightning, poison          |
-| Crown of Madness  | 2     | Enchantment        | No       | none                                         |
+| Crown of Madness  | 2     | Enchantment        | Yes      | none                                         |
 | Spirit Shroud     | 3     | Necromancy         | No       | radiant, necrotic, cold                      |
 | Fireball          | 3     | Evocation          | Yes      | fire                                         |
-| Leomunds Tiny Hut | 3     | Evocation(ritual)  | Yes      | none                                         |
+| Leomunds Tiny Hut | 3     | Evocation(ritual)  | No       | none                                         |
 | Lightning Bolt    | 3     | Evocation          | Yes      | lightning                                    |
 | Counterspell      | 3     | Abjuration         | No       | none                                         |
 

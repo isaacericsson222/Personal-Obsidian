@@ -54,3 +54,5 @@ size: medium
 
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
+
+The only thing we try to do here is show you how to make effects, how to create certain illusions, and then you do with it whatever you want. We each see nature through different eyes, so you paint the way you see it, and then it's right. And the only rule that I respect in art is: if it makes you happy, then it's good. You do what makes you happy. You paint scenes the way you see 'em, and that's when you really experience the joy of painting.
