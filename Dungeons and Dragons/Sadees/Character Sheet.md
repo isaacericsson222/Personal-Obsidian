@@ -1,20 +1,19 @@
 #character
-xp: 499/900
+xp: 899/900
 race: human 2
 class: rogue
 alignment: chaotic-neutral
 speed: 30
 initiative: + 3
-inspiration: 1
-gold: 51
+inspiration: 0
+gold: 67
 passive wisdom: 12
 
 | max hp | cur | hit dice |
 | ------ | --- | -------- |
 | 16     | 16  | 2d8      |
 
-
-Studded leather + buckler
+Studded leather  15 + buckler 2
 
 | ac  |
 | --- |
@@ -47,7 +46,7 @@ languages: common, elvish
  - Feat Skill Expert
   - Expertise
   - Sneak Attack
-  - Thieve's Can't
+  - Thieves' Can't
   - Cunning Action
   - Verdant Regrowth
 [[Me/Dungeons and Dragons/Sadees/Items 1/Equipment/Equipment|Equipment]]
