@@ -11,11 +11,11 @@ passive perception:
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 34     | 29  | 5d6      | 5d6          |
+| 34     | 34  | 5d6      | 5d6          |
 
 | ac  |
 | --- |
-|     |
+| 11  |
 
 | stats | score | mod |
 | ----- | ----- | --- |

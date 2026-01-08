@@ -10,31 +10,31 @@ every long rest (and always prepared)
 2nd - 3
 3rd - 2
 
-| Cantrips       | Type        |
-| -------------- | ----------- |
-| Firebolt       | Evocation   |
-| Shocking Grasp | Evocation   |
-| Mage Hand      | Conjuration |
-| Create Bonfire | Conjuration |
+| Cantrips           | Type        |
+| ------------------ | ----------- |
+| [[Fire Bolt]]      | Evocation   |
+| [[Shocking Grasp]] | Evocation   |
+| [[Mage Hand]]      | Conjuration |
+| [[Create Bonfire]] | Conjuration |
 
-| Spells            | Level | Type               | Prepared | Elements Provided                            |
-| ----------------- | ----- | ------------------ | -------- | -------------------------------------------- |
-| Silvery Barb      | 1     | Enchantment        | Always   | none                                         |
-| Magic Missiles    | 1     | Evocation          | Yes      | force                                        |
-| Chromatic Orb     | 1     | Evocation          | Yes      | acid, cold, fire, lightning, poison, thunder |
-| Feather Fall      | 1     | Transmutation      | Yes      | none                                         |
-| Shield            | 1     | Abjuration         | Yes      | none                                         |
-| Mage Armor        | 1     | Abjuration         | No       | none                                         |
-| Identify          | 1     | Divination(ritual) | Maybe?   | none                                         |
-| Misty Step        | 2     | Conjuration        | Always   | none                                         |
-| Wither and Bloom  | 2     | Necromancy         | Yes      | necrotic                                     |
-| Silence           | 2     | Illusion(ritual)   | No       | none                                         |
-| Cloud of Daggers  | 2     | Conjuration        | Yes      | slashing                                     |
-| Dragons Breath    | 2     | Transmutation      | No       | acid, cold, fire, lightning, poison          |
-| Crown of Madness  | 2     | Enchantment        | Yes      | none                                         |
-| Spirit Shroud     | 3     | Necromancy         | No       | radiant, necrotic, cold                      |
-| Fireball          | 3     | Evocation          | Yes      | fire                                         |
-| Leomunds Tiny Hut | 3     | Evocation(ritual)  | No       | none                                         |
-| Lightning Bolt    | 3     | Evocation          | Yes      | lightning                                    |
-| Counterspell      | 3     | Abjuration         | No       | none                                         |
+| Spells                | Level | Type               | Prepared | Elements Provided                            |
+| --------------------- | ----- | ------------------ | -------- | -------------------------------------------- |
+| [[Silvery Barbs]]     | 1     | Enchantment        | Always   | none                                         |
+| [[Magic Missiles]]    | 1     | Evocation          | Yes      | force                                        |
+| [[Chromatic Orb]]     | 1     | Evocation          | Yes      | acid, cold, fire, lightning, poison, thunder |
+| [[Feather Fall]]      | 1     | Transmutation      | Yes      | none                                         |
+| [[Shield]]            | 1     | Abjuration         | Yes      | none                                         |
+| [[Mage Armor]]        | 1     | Abjuration         | No       | none                                         |
+| [[Identify]]          | 1     | Divination(ritual) | Maybe?   | none                                         |
+| [[Misty Step]]        | 2     | Conjuration        | Always   | none                                         |
+| [[Wither and Bloom]]  | 2     | Necromancy         | Yes      | necrotic                                     |
+| [[Hold Person]]       | 2     | Enchantment        | Yes      | none                                         |
+| [[Cloud of Daggers]]  | 2     | Conjuration        | Yes      | slashing                                     |
+| [[Dragons Breath]]    | 2     | Transmutation      | No       | acid, cold, fire, lightning, poison          |
+| [[Crown of Madness]]  | 2     | Enchantment        | No       | none                                         |
+| [[Spirit Shroud]]     | 3     | Necromancy         | No       | radiant, necrotic, cold                      |
+| [[Fireball]]          | 3     | Evocation          | Yes      | fire                                         |
+| [[Leomunds Tiny Hut]] | 3     | Evocation(ritual)  | No       | none                                         |
+| [[Lightning Bolt]]    | 3     | Evocation          | Yes      | lightning                                    |
+| [[Counterspell]]      | 3     | Abjuration         | No       | none                                         |
 
