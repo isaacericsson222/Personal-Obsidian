@@ -6,7 +6,7 @@ class: inquisitive rogue
 alignment: chaotic-neutral
 speed: 30
 initiative: + 4
-inspiration: 1
+inspiration: 0
 gold: 98
 passive perception: 14
 
@@ -17,7 +17,7 @@ Resistance to necrotic
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 31     | 23  | 5d8      | 0d8          |
+| 31     | 18  | 5d8      | 0d8          |
 
 Studded leather  16 + buckler 2
 
