@@ -1,6 +1,6 @@
 #character
 
-xp: 7150/14,000
+xp: 8950/14,000
 race: human 5
 class: inquisitive rogue
 alignment: chaotic-neutral
@@ -17,7 +17,7 @@ Resistance to necrotic
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 31     | 18  | 5d8      | 0d8          |
+| 31     | 28  | 5d8      | 0d8          |
 
 Studded leather  16 + buckler 2
 
