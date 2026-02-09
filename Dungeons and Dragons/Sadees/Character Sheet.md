@@ -15,9 +15,9 @@ Resistance to necrotic
 -8 arrow left Silas at 8 Kat worse got a geode and bag of holding
 
 
-| max hp | cur | hit dice | cur hit dice |
-| ------ | --- | -------- | ------------ |
-| 36     | 36  | 5d8      | 5d8 + 1d10   |
+| max hp | cur | hit dice   | cur hit dice |
+| ------ | --- | ---------- | ------------ |
+| 36     | 36  | 5d8 + 1d10 | 5d8 + 1d10   |
 
 Studded leather  16 + buckler 2
 
