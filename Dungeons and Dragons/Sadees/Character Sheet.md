@@ -1,23 +1,23 @@
 #character
 
-xp: 8950/14,000
-race: human 5
-class: inquisitive rogue
+xp: 14,000/23,000
+race: human 6
+class: inquisitive rogue 5, fighter 1
 alignment: chaotic-neutral
 speed: 30
 initiative: + 4
 inspiration: 0
 gold: 98
-passive perception: 14
+passive perception: 16
 
 Vulnerable to fire 
 Resistance to necrotic
 -8 arrow left Silas at 8 Kat worse got a geode and bag of holding
-3/6 Sandro Ticks
+
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 31d    | 4   | 5d8      | 0d8          |
+| 36     | 36  | 5d8      | 5d8 + 1d10   |
 
 Studded leather  16 + buckler 2
 
@@ -57,6 +57,13 @@ languages: common, elvish
   - Verdant Regrowth
   - Piercer
   - Uncanny Dodge
+  - Domination
+  - Steady Aim
+  - Eye for Detail
+  - Ear for Deceit
+  - Piercer
+  - Fighting Style
+  - Second Wind
 [[Me/Dungeons and Dragons/Sadees/Items 1/Equipment/Equipment|Equipment]]
 - explorers pack
 - thieves tool
