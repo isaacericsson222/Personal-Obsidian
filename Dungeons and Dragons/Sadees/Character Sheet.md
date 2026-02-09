@@ -17,7 +17,7 @@ Resistance to necrotic
 
 | max hp | cur | hit dice | cur hit dice |
 | ------ | --- | -------- | ------------ |
-| 31     | 20  | 5d8      | 0d8          |
+| 31d    | 4   | 5d8      | 0d8          |
 
 Studded leather  16 + buckler 2
 
