@@ -7,7 +7,7 @@ alignment: chaotic-neutral
 speed: 30
 initiative: + 4
 inspiration: 0
-gold: 98
+gold: 0
 passive perception: 16
 
 Vulnerable to fire 
@@ -25,14 +25,14 @@ Studded leather  16 + buckler 2
 | --- |
 | 18  |
 
-| stats | score | mod |
-| ----- | ----- | --- |
-| STR   | 7     | -2  |
-| DEX   | 18    | +4  |
-| CON   | 8     | -1  |
-| INT   | 16    | +3  |
-| WIS   | 10    | +0  |
-| CHA   | 10    | +0  |
+| stats | score | mod |     |     |
+| ----- | ----- | --- | --- | --- |
+| STR   | 7     | -2  |     |     |
+| DEX   | 18    | +4  |     |     |
+| CON   | 8     | -1  | 19  | +2  |
+| INT   | 16    | +3  |     |     |
+| WIS   | 10    | +0  |     |     |
+| CHA   | 10    | +0  |     |     |
 
 | saves              | prof bonus (+3) |
 | ------------------ | --------------- |
