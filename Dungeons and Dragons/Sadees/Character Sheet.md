@@ -100,5 +100,3 @@ size: medium
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
 
-72 74 broadtangle way where mat lived
-Pale lady in front, the abandoned behind, creature of wings last
