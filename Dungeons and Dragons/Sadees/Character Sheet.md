@@ -1,6 +1,6 @@
 #character
 
-xp: 14,000/23,000
+xp: 16,300/23,000
 race: human 6
 class: inquisitive rogue 5, fighter 1
 alignment: chaotic-neutral
@@ -17,19 +17,19 @@ Resistance to necrotic
 
 | max hp | cur | hit dice   | cur hit dice |
 | ------ | --- | ---------- | ------------ |
-| 36     | 36  | 5d8 + 1d10 | 5d8 + 1d10   |
+| 66     | 53  | 5d8 + 1d10 | 5d8 + 1d10   |
 
-Studded leather  16 + buckler 2
+Mithril  17 + buckler 2
 
 | ac  |
 | --- |
-| 18  |
+| 19  |
 
 | stats | score | mod |     |     |
 | ----- | ----- | --- | --- | --- |
 | STR   | 7     | -2  |     |     |
 | DEX   | 18    | +4  |     |     |
-| CON   | 8     | -1  | 19  | +2  |
+| CON   | 8     | -1  | 19  | +4  |
 | INT   | 16    | +3  |     |     |
 | WIS   | 10    | +0  |     |     |
 | CHA   | 10    | +0  |     |     |
@@ -100,3 +100,5 @@ size: medium
 [[Backstory]]
 [[Sadees Fullview.canvas|Sadees Fullview]]
 
+72 74 broadtangle way where mat lived
+Pale lady in front, the abandoned behind, creature of wings last
